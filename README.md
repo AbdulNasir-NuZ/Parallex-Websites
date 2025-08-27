@@ -13,4 +13,4 @@ https://parallax-jungle-theme-rahil1202.netlify.app/
 ![Screenshot 2023-08-01 110419](https://github.com/rahil1202/parallax/assets/104057403/8e77883b-9906-42d5-9e77-be0178492630)
 
 
-sample for parllex effect
+sample for parllex effect for forest theme
