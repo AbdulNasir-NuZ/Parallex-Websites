@@ -1,18 +1,20 @@
-## Parallax Scrolling Website - Jungle Theme  
+Jungle-Themed Parallax Website
 
-I've crafted an immersive **Parallax Scrolling Website**, where elements move at different speeds to create a stunning 3D effect. Using a combination of **HTML and CSS**, I’ve designed a visually engaging experience that leaves a lasting impression on users.  
+I built a Parallax Scrolling Website that creates a sense of depth and motion by moving background and foreground layers at different speeds. The site uses only HTML and CSS, showing how much can be done with core web technologies without extra frameworks.
 
-This project demonstrates how simple frontend technologies can be used to create modern, dynamic, and interactive web designs without relying on heavy frameworks or libraries.  
+Live Preview
 
-## Live Demo  
-Check it out here: [Parallax Jungle Theme](https://parallax-jungle-theme-rahil1202.netlify.app/)  
+👉 View Jungle Parallax Website : (https://parallax-jungle-theme-rahil1202.netlify.app/)
 
-## Features  
-- 🌲 **Forest/Jungle Theme** with layered depth effect  
-- 🎨 Smooth scrolling and transitions  
-- 💡 Clean, responsive design  
-- 🖼️ Eye-catching visuals that mimic a 3D environment  
-- ⚡ Lightweight (built only with HTML & CSS)  
+Highlights
+
+🌿 Immersive jungle-inspired visuals with a layered 3D effect
+
+🎨 Smooth scrolling and subtle transitions for an engaging feel
+
+📱 Fully responsive layout that works across devices
+
+⚡ Minimal and lightweight — no external libraries needed
 
 ## Technologies  
 💻 HTML <br>  
